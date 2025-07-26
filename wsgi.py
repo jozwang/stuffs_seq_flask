@@ -6,7 +6,7 @@ import sys
 
 # Add your project's directory to the Python path.
 # Replace '<your-username>' and '<your-repo-name>' with your actual details.
-project_home = '/home/<your-username>/<your-repo-name>' 
+project_home = '/home/jjjjzzzz/stuffs_seq_flask' 
 if project_home not in sys.path:
     sys.path = [project_home] + sys.path
 
